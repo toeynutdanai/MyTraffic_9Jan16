@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
         trafficListView.setAdapter(objMyAdapter);
 
 
+
     } //listviewController
 
     private void buttonController() {
